@@ -1,7 +1,5 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>MYRK PRODUCTION Register for DevOps Learning</h1>
-    <h1>MYRK PRODUCTION CALLING NEW SERIES CASTING</h1>
 
  <h1>MYRK solutions</h1>
     <h1>Devops Projcet Automation  Register for DevOps Learning</h1>
